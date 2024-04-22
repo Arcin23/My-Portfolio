@@ -50,7 +50,7 @@
 .links button{
     background: var(--color-secondary);
     font-size: 20px;
-    border-radius: 15px;
+    border-radius: 12px;
     gap: 50px;
     border-color: transparent;
     cursor: pointer;
